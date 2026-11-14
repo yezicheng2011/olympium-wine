@@ -1,0 +1,7 @@
+*.img
+*.qcow2
+*.tar.gz
+*.tar.zst
+dist/
+out/
+*.hap

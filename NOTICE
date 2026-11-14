@@ -1,0 +1,8 @@
+Linkspan slim runtime
+Copyright 2026 Ye Zicheng
+
+The scripts in this repository are Apache-2.0.
+The slim image they build is not committed here.
+When a release is published, the image keeps the license of its upstream system.
+It is not relicensed as Apache-2.0.
+Linkspan does not bundle the image.
