@@ -2,13 +2,15 @@
   "id": "wine",
   "edition": "slim",
   "version": "0.1.0",
-  "published": false,
+  "published": true,
   "repo": "https://github.com/yezicheng2011/olympium-wine",
   "tag": "v0.1.0",
-  "summary": "A slim Wine build. Wine keeps its own license. It is not a Windows license and it is not used for OpenHarmony.",
+  "summary": "Slim Wine 11.0 for 64-bit Windows programs on Linux x86_64. Not a Windows license. 32-bit programs, aarch64, and macOS were not built.",
   "assets": {
     "x86_64": "wine-slim-x86_64.tar.gz",
-    "aarch64": "wine-slim-aarch64.tar.gz"
+    "aarch64": ""
   },
-  "sha256": {}
+  "sha256": {
+    "x86_64": "6b0f969d2cd51669709425dccdfe3f9b76ca5ce5f36934f7b469d19b43227320"
+  }
 }
